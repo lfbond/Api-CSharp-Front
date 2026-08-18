@@ -19,7 +19,7 @@ Aplicação frontend para cadastro e gerenciamento de pizzas. O projeto foi dese
 
 ## Pré-requisitos
 
-- Node.js 18 ou superior.
+- Node.js 20.19 ou superior.
 - npm.
 - API de pizzas disponível em `http://localhost:5100`.
 
